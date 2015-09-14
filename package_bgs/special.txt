@@ -1,0 +1,14 @@
+
+/E/yzbx_programe/QT/qt_bgslibrary/package_bgs
+/E/yzbx_programe/QT/qt_bgslibrary/package_bgs/ae
+/E/yzbx_programe/QT/qt_bgslibrary/package_bgs/av
+/E/yzbx_programe/QT/qt_bgslibrary/package_bgs/bl
+/E/yzbx_programe/QT/qt_bgslibrary/package_bgs/ck
+/E/yzbx_programe/QT/qt_bgslibrary/package_bgs/db
+/E/yzbx_programe/QT/qt_bgslibrary/package_bgs/dp
+/E/yzbx_programe/QT/qt_bgslibrary/package_bgs/jmo
+/E/yzbx_programe/QT/qt_bgslibrary/package_bgs/lb
+/E/yzbx_programe/QT/qt_bgslibrary/package_bgs/my
+/E/yzbx_programe/QT/qt_bgslibrary/package_bgs/pl
+/E/yzbx_programe/QT/qt_bgslibrary/package_bgs/sjn
+/E/yzbx_programe/QT/qt_bgslibrary/package_bgs/tb
