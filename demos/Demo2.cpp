@@ -78,7 +78,7 @@ int mainDemo2()
 
   /*** Default Package ***/
   bgs = new FrameDifferenceBGS;
-  //bgs = new StaticFrameDifferenceBGS;
+//  bgs = new StaticFrameDifferenceBGS;
   //bgs = new WeightedMovingMeanBGS;
   //bgs = new WeightedMovingVarianceBGS;
   //bgs = new MixtureOfGaussianV1BGS;
@@ -137,7 +137,7 @@ int mainDemo2()
   //bgs = new SigmaDeltaBGS;
 
   /*** PL Package (thanks to Pierre-Luc) ***/
-  //bgs = new SuBSENSEBGS();
+//  bgs = new SuBSENSEBGS();
   //bgs = new LOBSTERBGS();
 
   int frameNumber = 1;
@@ -148,7 +148,7 @@ int mainDemo2()
 
     std::stringstream ss;
     ss << frameNumber;
-    std::string fileName = "E:\\yzbx_programe\\QT\\qt_bgslibrary\\frames\\" + ss.str() + ".png";
+    std::string fileName = "../qt_bgslibrary/frames/" + ss.str() + ".png";
     std::cout << "reading " << fileName << std::endl;
 
     cv::Mat img_input = cv::imread(fileName, CV_LOAD_IMAGE_COLOR);
